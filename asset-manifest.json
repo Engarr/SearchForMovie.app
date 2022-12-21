@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Engarr/SearchForMovie.app.git/static/css/main.d5c722d6.css",
+    "main.js": "/Engarr/SearchForMovie.app.git/static/js/main.a6de7656.js",
+    "index.html": "/Engarr/SearchForMovie.app.git/index.html",
+    "static/media/search.svg": "/Engarr/SearchForMovie.app.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.d5c722d6.css.map": "/Engarr/SearchForMovie.app.git/static/css/main.d5c722d6.css.map",
+    "main.a6de7656.js.map": "/Engarr/SearchForMovie.app.git/static/js/main.a6de7656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c722d6.css",
+    "static/js/main.a6de7656.js"
+  ]
+}
